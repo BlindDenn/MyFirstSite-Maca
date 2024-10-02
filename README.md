@@ -1,3 +1,3 @@
 # Demo ReadМе
-
-Just simple ReadMe file - for educational purposes
+/
+Just simple ReadMe file - for educational purposes.
